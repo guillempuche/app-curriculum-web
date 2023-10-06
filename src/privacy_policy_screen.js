@@ -23,12 +23,6 @@ export const PrivacyPolicyScreen = () => {
 				functionality without compromising your privacy.
 			</p>
 
-			<h2 className="text-xl font-semibold mb-2">2. Minors</h2>
-			<p className="mb-4">
-				Our services are not designed for, and do not intentionally target or
-				solicit anyone under the age of 18.
-			</p>
-
 			<h2 className="text-xl font-semibold mb-2">3. Data Protection</h2>
 			<p className="mb-4">
 				Even though we do not collect personal data, we prioritize the
