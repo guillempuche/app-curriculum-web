@@ -23,7 +23,7 @@ export const PrivacyPolicyScreen = () => {
 				functionality without compromising your privacy.
 			</p>
 
-			<h2 className="text-xl font-semibold mb-2">3. Data Protection</h2>
+			<h2 className="text-xl font-semibold mb-2">2. Data Protection</h2>
 			<p className="mb-4">
 				Even though we do not collect personal data, we prioritize the
 				protection of any data and information that is processed during the
@@ -31,7 +31,7 @@ export const PrivacyPolicyScreen = () => {
 				safeguard against unauthorized access to our systems.
 			</p>
 
-			<h2 className="text-xl font-semibold mb-2">4. Third-party Services</h2>
+			<h2 className="text-xl font-semibold mb-2">3. Third-party Services</h2>
 			<p className="mb-4">
 				Our apps and website may contain links to third-party websites or
 				services that are not operated by us. Please be aware that we have no
@@ -42,7 +42,7 @@ export const PrivacyPolicyScreen = () => {
 			</p>
 
 			<h2 className="text-xl font-semibold mb-2">
-				5. Changes to This Privacy Policy
+				4. Changes to This Privacy Policy
 			</h2>
 			<p className="mb-4">
 				We reserve the right to make changes to this Privacy Policy in the
