@@ -3,7 +3,7 @@ export const PrivacyPolicyScreen = () => {
 		<div className="container mx-auto mt-5 p-6 bg-white rounded-xl shadow-md max-w-md">
 			<h1 className="text-2xl font-bold mb-6 text-center">Privacy Policy</h1>
 			<p className="mb-4 text-sm text-gray-500 text-center">
-				Last Updated: August 25th 2023
+				Last Updated: October 10th 2023
 			</p>
 
 			<div className="mb-4">
@@ -16,14 +16,14 @@ export const PrivacyPolicyScreen = () => {
 				</p>
 			</div>
 
-			<h2 className="text-xl font-semibold mb-2">1. Information We Collect</h2>
+			<h2 className="text-xl font-semibold mb-2">Information We Collect</h2>
 			<p className="mb-4">
 				We do not collect any personal data or information when you use our
 				Android app, iOS app, or website. Our primary aim is to provide you with
 				functionality without compromising your privacy.
 			</p>
 
-			<h2 className="text-xl font-semibold mb-2">2. Data Protection</h2>
+			<h2 className="text-xl font-semibold mb-2">Data Protection</h2>
 			<p className="mb-4">
 				Even though we do not collect personal data, we prioritize the
 				protection of any data and information that is processed during the
@@ -31,7 +31,7 @@ export const PrivacyPolicyScreen = () => {
 				safeguard against unauthorized access to our systems.
 			</p>
 
-			<h2 className="text-xl font-semibold mb-2">3. Third-party Services</h2>
+			<h2 className="text-xl font-semibold mb-2">Third-party Services</h2>
 			<p className="mb-4">
 				Our apps and website may contain links to third-party websites or
 				services that are not operated by us. Please be aware that we have no
@@ -42,12 +42,21 @@ export const PrivacyPolicyScreen = () => {
 			</p>
 
 			<h2 className="text-xl font-semibold mb-2">
-				4. Changes to This Privacy Policy
+				Changes to This Privacy Policy
 			</h2>
 			<p className="mb-4">
 				We reserve the right to make changes to this Privacy Policy in the
 				future. Any changes will be updated here, so we advise checking this
 				page regularly to ensure you are aware of any updates.
+			</p>
+
+			<h2 className="text-xl font-semibold mb-2">Contact Information</h2>
+			<p className="mb-4">
+				If you have any questions about the Privacy Policy, please send an email
+				to{' '}
+				<a href="mailto:app_stores.nullify296@simplelogin.com">
+					app_stores.nullify296@simplelogin.com
+				</a>
 			</p>
 		</div>
 	);
