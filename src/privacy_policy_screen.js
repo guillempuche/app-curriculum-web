@@ -8,7 +8,7 @@ export const PrivacyPolicyScreen = () => {
 
 			<div className="mb-4">
 				<p>
-					This Privacy Policy describes how <strong>Guillem Curriculum</strong>{' '}
+					This Privacy Policy describes how <strong>Guillem Curriculum</strong>{" "}
 					("we", "our", or "us") protects and makes use of the information you
 					provide when you use our Android app, iOS app, and website. We take
 					your privacy extremely seriously, and we're committed to ensuring the
@@ -48,15 +48,6 @@ export const PrivacyPolicyScreen = () => {
 				We reserve the right to make changes to this Privacy Policy in the
 				future. Any changes will be updated here, so we advise checking this
 				page regularly to ensure you are aware of any updates.
-			</p>
-
-			<h2 className="text-xl font-semibold mb-2">Contact Information</h2>
-			<p className="mb-4">
-				If you have any questions about the Privacy Policy, please send an email
-				to{' '}
-				<a href="mailto:app_stores.nullify296@simplelogin.com">
-					app_stores.nullify296@simplelogin.com
-				</a>
 			</p>
 		</div>
 	);
